@@ -1,4 +1,4 @@
-# ODSCEast2025_MathBootcamp
+# ODSCWest2025_MathBootcamp
 Material for the Introduction to Math for Data Science ODSCWest 2025 Bootcamp
 
 For this bootcamp tutorial you will need the following:
